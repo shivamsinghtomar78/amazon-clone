@@ -100,12 +100,25 @@ span{
 }
 /*box6*/
 .nav-cart i {
-    font-size: 35px;
+    font-size: 30px;
 
 }
 .nav-cart{
     font-size: 0.85rem;
     font-weight: 700;
+
+}
+
+/** panel **/
+.panel{
+    height: 40px;
+    background-color: #222f3d;
+    display: flex;
+    color: white;
+}
+.panel-ops p {
+     display: inline;
+      
 
 }
 
