@@ -233,8 +233,47 @@ text-decoration: none;
  }
  .foot-panel3{
     background-color:#222f3d ;
+    height:70px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
  }
+
+ .logo{
+    background-image: url(img/amazon_logo.png);
+    background-size: cover;
+    height: 50px;
+    width: 100px;
+
+     
+ }
+ .foot-panel4 a{
+    color: white;
+    text-decoration: none;
+ }
+ .foot-panel4{
+    background-color: #0f1111;
+    color: white;
+    height: 60px;
+    font-size: 0.7rem;
+    text-align: center;
+ 
+}
+.pages{
+     
+    padding-top: 25px;
+     
+     
+    
+
+
+}
+.copyright{
+    
+    padding-top: 5px;
+
+}
  
 
 
