@@ -251,6 +251,7 @@ text-decoration: none;
  .foot-panel4 a{
     color: white;
     text-decoration: none;
+    margin: 5px;
  }
  .foot-panel4{
     background-color: #0f1111;
